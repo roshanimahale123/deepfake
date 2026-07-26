@@ -25,7 +25,7 @@ An advanced deep learning framework for **real-time and video-based Deepfake Det
 ## 🖥️ Demo & User Interface
 
 
-
+)
 ---
 
 ## 🚀 Quick Start Guide
