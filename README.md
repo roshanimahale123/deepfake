@@ -25,7 +25,7 @@ An advanced deep learning framework for **real-time and video-based Deepfake Det
 ## 🖥️ Demo & User Interface
 
 ![Deepfake UI Demo Dashboard](assets/deepfake_demo.jpg)
-)
+<img width="983" height="205" alt="Deepfake UI Demo Dashboard" src="https://github.com/user-attachments/assets/df0fd232-8d09-4c2c-856f-ddfe39121c08" />
 ---
 
 ## 🚀 Quick Start Guide
