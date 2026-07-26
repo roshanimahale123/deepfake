@@ -40,5 +40,5 @@ def detect_deepfake(img):
     return "Fake" if prediction.item() == 1 else "Real"
 
 # Gradio interface
-iface = gr.Interface(fn=detect_deepfake, inputs="image", outputs="text")
+iface = gr.Interface(fn=detect_deepfake, inputs=gr.Video(), outputs="text")
 iface.launch()
